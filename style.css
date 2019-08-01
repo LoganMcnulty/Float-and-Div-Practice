@@ -1,0 +1,35 @@
+body{
+    font-family: "Helvetica", Times, serif;
+    color: darkgreen;
+    background-color: wheat;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+hr{
+    height:5px;
+    background-color: lightpink;
+}
+img{
+    margin-left: 10px;
+    width:100px;
+
+}
+h2{
+    color: darkcyan;
+}
+
+#pictures{
+    padding-top: 17px;
+    width: 150px;
+    float: left;
+    height: inherit;
+}
+
+#content{
+    margin-left:150px;
+}
+
+#blah{
+    background-color: lightpink;
+}
+
